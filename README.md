@@ -10,3 +10,6 @@ Requisitos para instalar en W10:
 - Git
 - RipGrep
 - nvim
+
+Ruta donde se configura::
+~/AppData/Local/nvim

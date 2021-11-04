@@ -4,12 +4,12 @@ call plug#begin('~\AppData\Local\nvim\plugged')
 " Themes
 Plug 'morhetz/gruvbox'
 Plug 'shinchu/lightline-gruvbox.vim'
-Plug 'sheerun/vim-polyglot'
-Plug 'joshdick/onedark.vim'
-Plug 'safv12/andromeda.vim'
-Plug 'ghifarit53/tokyonight-vim'
-Plug 'ayu-theme/ayu-vim'
-Plug 'crusoexia/vim-monokai'
+" Plug 'sheerun/vim-polyglot'
+" Plug 'joshdick/onedark.vim'
+" Plug 'safv12/andromeda.vim'
+" Plug 'ghifarit53/tokyonight-vim'
+" Plug 'ayu-theme/ayu-vim'
+" Plug 'crusoexia/vim-monokai'
 
 " "IDE
 Plug 'easymotion/vim-easymotion'
